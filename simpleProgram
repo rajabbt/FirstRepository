@@ -1,0 +1,15 @@
+#include <iostream>
+// simple program Aug 9 1:17 pm 
+
+using namespace std;
+
+int main(){
+  int a;
+  cout<<"Enter a Number : ";
+  cin<<a;
+
+  cout<<"You Entered "<<a<<endl;
+  
+
+  return 0;
+}
